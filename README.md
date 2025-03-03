@@ -16,5 +16,4 @@ Smart Parking System Using Opencv
 - **SQLite**: A lightweight, serverless database to store vehicle logs.
 - **Tkinter**: Python's standard GUI library to create the user interface.
 - **Regular Expressions**: To filter valid vehicle plate text.
-
-- 
+ 
